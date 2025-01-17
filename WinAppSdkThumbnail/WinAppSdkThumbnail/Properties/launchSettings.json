@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WinAppSdkThumbnail": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Video.mp4\" \"D:\\Output\""
+    }
+  }
+}
